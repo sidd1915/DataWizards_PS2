@@ -12,3 +12,4 @@ This project aims to:
 ## Streamlit Deployement Screenshots
 ![image](https://github.com/user-attachments/assets/07fb9bbb-9977-43cf-be02-6fd2b0284f10)
 ![image](https://github.com/user-attachments/assets/b400ef3e-e59b-459d-950a-c907303fb7a7)
+![image](https://github.com/user-attachments/assets/175a3676-57a0-470a-8581-206e53d57772)
